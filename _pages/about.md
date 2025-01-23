@@ -31,6 +31,8 @@ My research interest focuses on the safety issues on audio LMMs and speech-speci
 # 📝 Publications 
 
 - [Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/pdf/2410.23861),
+
   Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
+  
   **NAACL 2025**
 
