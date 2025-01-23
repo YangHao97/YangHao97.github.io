@@ -25,7 +25,7 @@ My research interest focuses on the safety issues on audio LMMs and speech-speci
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: &nbsp;🎉🎉 Our paper "[Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/pdf/2410.23861)" has been accepted to NAACL 2025. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
