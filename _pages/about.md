@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "123"
+title: "Hao Yang Personal Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
