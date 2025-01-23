@@ -26,7 +26,7 @@ My research interest focuses on the safety issues on audio LMMs and speech-speci
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 Our paper "[Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/pdf/2410.23861)" has been accepted to NAACL 2025. 
-- *2024.12*: &nbsp;:rocket:🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;📚📚 Our codes for "[Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models](https://arxiv.org/pdf/2410.11459)" are available at [here](https://github.com/YangHao97/JigSawPuzzles). 
 
 # 📝 Publications 
 
@@ -36,7 +36,7 @@ My research interest focuses on the safety issues on audio LMMs and speech-speci
   
   **NAACL 2025**
 
-- [Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models](https://arxiv.org/pdf/2410.11459),
+- [Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models](https://arxiv.org/pdf/2410.11459)
 
   Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
 
