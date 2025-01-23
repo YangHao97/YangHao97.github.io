@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-haoyang.
+I am a 2nd-year PhD student at the Department of Data Science & AI, Monash University (2023 - now), supervised by Prof. Gholamreza Haffari, Dr. Ehsan Shareghi and Dr. Lizhen Qu.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest focuses on the safety issues on audio LMMs and speech-specific risks. We red team current audio LMMs to reveal potential vulnerabilities and explore effective safeguarding mechanism for constructing safer audio LMMs.
 
 
 # 🔥 News
