@@ -25,6 +25,7 @@ My research interest focuses on the safety issues on audio LMMs and speech-speci
 
 
 # 🔥 News
+- *2025.01*: &nbsp;📚📚 The repository for "[Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/pdf/2410.23861)" is available at [here](https://github.com/YangHao97/RedteamAudioLMMs). 
 - *2025.01*: &nbsp;🎉🎉 Our paper "[Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/pdf/2410.23861)" has been accepted to NAACL 2025. 
 - *2024.12*: &nbsp;📚📚 Our codes for "[Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models](https://arxiv.org/pdf/2410.11459)" are available at [here](https://github.com/YangHao97/JigSawPuzzles).
 - *2024.11*: &nbsp;📚📚 Our speech-specific risk dataset is available at [here](https://github.com/YangHao97/speech_specific_risk).
