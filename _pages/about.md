@@ -43,6 +43,8 @@ My research interest focuses on the safety issues on audio LMMs and speech-speci
 
   Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
 
+  **COLM 2025**
+
 - [Towards Probing Speech-Specific Risks in Large Multimodal Models: A Taxonomy, Benchmark, and Insights](https://arxiv.org/pdf/2406.17430)
 
   Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
