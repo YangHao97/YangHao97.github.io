@@ -35,43 +35,49 @@ My research interest focuses on the safety issues on audio LMMs and speech-speci
 
 - [Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/pdf/2410.23861)
 
-  Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
+  **Hao Yang**, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
   
   **NAACL 2025**
 
 - [Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models](https://arxiv.org/pdf/2410.11459)
 
-  Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
+  **Hao Yang**, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
 
   **COLM 2025**
 
+- [Continual Speech Learning with Fused Speech Features](https://arxiv.org/pdf/2506.01496)
+
+  Guitao Wang, Jinming Zhao, **Hao Yang**, Guilin Qi, Tongtong Wu, Gholamreza Haffari
+
+  **INTERSPEECH 2025**
+
 - [Towards Probing Speech-Specific Risks in Large Multimodal Models: A Taxonomy, Benchmark, and Insights](https://arxiv.org/pdf/2406.17430)
 
-  Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
+  **Hao Yang**, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
   
   **EMNLP 2024**
 
 - [Investigating pre-trained audio encoders in the low-resource condition](https://arxiv.org/pdf/2305.17733)
 
-  Hao Yang, Jinming Zhao, Gholamreza Haffari, Ehsan Shareghi
+  **Hao Yang**, Jinming Zhao, Gholamreza Haffari, Ehsan Shareghi
   
   **INTERSPEECH 2023**
 
 - [Self-supervised rewiring of pre-trained speech encoders: Towards faster fine-tuning with less labels in speech processing](https://arxiv.org/pdf/2210.13030)
 
-  Hao Yang, Jinming Zhao, Gholamreza Haffari, Ehsan Shareghi
+  **Hao Yang**, Jinming Zhao, Gholamreza Haffari, Ehsan Shareghi
   
   **EMNLP 2022-Findings**
 
 - [RedApt: An Adaptor for wav2vec 2 Encoding: Faster and Smaller Speech Translation without Quality Compromise](https://arxiv.org/pdf/2210.08475)
 
-  Jinming Zhao, Hao Yang, Gholamreza Haffari, Ehsan Shareghi
+  Jinming Zhao, **Hao Yang**, Gholamreza Haffari, Ehsan Shareghi
   
   **EMNLP 2022-Findings**
 
 - [M-adapter: Modality adaptation for end-to-end speech-to-text translation](https://arxiv.org/pdf/2207.00952)
 
-  Jinming Zhao, Hao Yang, Ehsan Shareghi, Gholamreza Haffari
+  Jinming Zhao, **Hao Yang**, Ehsan Shareghi, Gholamreza Haffari
   
   **Interspeech 2022**
 
