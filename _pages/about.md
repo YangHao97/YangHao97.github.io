@@ -19,7 +19,7 @@ redirect_from:
 
 # 📖 Biography
 
-I am a 2nd-year PhD student at the Department of Data Science & AI, Monash University (2023 - now), supervised by Prof. Gholamreza Haffari, Dr. Ehsan Shareghi and Dr. Lizhen Qu.
+I am a 3rd-year PhD student at the Department of Data Science & AI, Monash University (2023 - now), supervised by Prof. Gholamreza Haffari, Dr. Ehsan Shareghi and Dr. Lizhen Qu.
 
 My research interest focuses on the safety issues on audio LMMs and speech-specific risks. We red team current audio LMMs to reveal potential vulnerabilities and explore effective safeguarding mechanism for constructing safer audio LMMs.
 
